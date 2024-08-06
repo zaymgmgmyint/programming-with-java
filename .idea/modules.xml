@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-introduction-to-java/01-introduction-to-java.iml" filepath="$PROJECT_DIR$/01-introduction-to-java/01-introduction-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-basic-syntax/02-basic-syntax.iml" filepath="$PROJECT_DIR$/02-basic-syntax/02-basic-syntax.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/programming-with-java.iml" filepath="$PROJECT_DIR$/.idea/programming-with-java.iml" />
     </modules>
   </component>
